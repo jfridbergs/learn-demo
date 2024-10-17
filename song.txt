@@ -7,6 +7,3 @@ extra line second
 
 line for git gui first
 line for git gui second
-
-a new line for a revert command
------------------------
