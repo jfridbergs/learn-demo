@@ -7,3 +7,9 @@ extra line second
 
 line for git gui first
 line for git gui second
+
+content to be saved
+
+
+exercise 1
+one line i made on my local repository
