@@ -7,3 +7,5 @@ extra line second
 
 line for git gui first
 line for git gui second
+
+blablablablabla feature 1
